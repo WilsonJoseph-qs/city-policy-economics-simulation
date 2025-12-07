@@ -15,7 +15,7 @@ The model uses **Monte Carlo simulation (20,000 runs)** to capture uncertainty, 
 
 ---
 
-## 🏙️ Programs Modeled
+## Programs Modeled
 
 ### **1. Universal Childcare**
 - 900,000 children  
@@ -101,4 +101,5 @@ pip install numpy pandas matplotlib
 2. Run the simulation
 
 python model.py
+
 All output files will appear inside the results/ directory.
