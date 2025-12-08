@@ -1,7 +1,7 @@
 # NYC Welfare Policy Fiscal Simulation (10-Year Monte Carlo Model)
 
 This project builds a 10-year fiscal simulation to evaluate whether a hypothetical New York City mayor’s large-scale social welfare programs are financially sustainable.  
-The model uses **Monte Carlo simulation (20,000 runs)** to capture uncertainty, volatility, cost drift, and rare economic shocks—similar to techniques used in quantitative finance and public policy analysis.
+The model uses **Monte Carlo simulation (20,000 runs)** to capture uncertainty, volatility, cost drift, and rare economic shocks, similar to techniques used in quantitative finance and public policy analysis.
 
 ---
 
@@ -103,3 +103,4 @@ pip install numpy pandas matplotlib
 python model.py
 
 All output files will appear inside the results/ directory.
+
